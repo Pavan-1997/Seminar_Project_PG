@@ -1,5 +1,5 @@
 # Seminar Project (Capstone) done in my Post Graduation:
-
+ 
 ## Protecting Network Structures by Deploying Honeypots
 
 Network structures are arranged over an organization in such a way that it provides the better connectivity in transferring the information across the same network as well as the outside world. The attackers are possibly out there targeting these networks to form a session on the devices and extract the sensitive information stored over the same. Different network security mechanism out there for the security of the data where this report will focus on the honeypots as the device implanted on the network to divert the attacks onto this system and avoiding the loss of data from the original devices present on the network. These devices are deployed in such a way that it attracts the attackers as if some valuable information is residing over them having some vulnerable versions running and further analyze the different attacks performed by the attackers and processing the security of the original devices according to that.
